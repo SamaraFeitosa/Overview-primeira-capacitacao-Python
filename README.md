@@ -2,12 +2,12 @@
 
 Resolução de exercícios e entrega da semana 3 da capacitação em Python para análise de dados.
 
-![Python]https://shields.io
-![Pandas](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Dados-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Calculos-013243)
+![Seaborn](https://img.shields.io/badge/Seaborn-Graficos-4c72b0)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Graficos-orange)
 
-![NumPy](https://shields.io)
-
-![Seaborn](https://shields.io)
 
 # INTRODUÇÃO
 Este projeto contém questões respondidas em python, onde foram abordados os seguintes temas: Tratamento de Dados, Análise e Correções, Visualização de Dados e Storytelling.
@@ -30,10 +30,12 @@ Este projeto contém questões respondidas em python, onde foram abordados os se
 ## 🚀 COMO EXECUTAR O PROJETO
 1. Clone este repositório ou baixe os arquivos para uma pasta local. 
 2. Instale as bibliotecas necessárias:
-
-```bash pip install pandas openpyxl matplotlib seaborn ```
+   
+    ```bash pip install pandas openpyxl matplotlib seaborn ```
 
 4. Abra o notebook `.ipynb` no VS Code ou Jupyter e execute todas as células.
+
+
 
 
 
