@@ -2,9 +2,11 @@
 
 Resolução de exercícios e entrega da semana 3 da capacitação em Python para análise de dados.
 
-![Python](https://shields.io)
+![Python]https://shields.io
 ![Pandas](https://shields.io)
+
 ![NumPy](https://shields.io)
+
 ![Seaborn](https://shields.io)
 
 # INTRODUÇÃO
