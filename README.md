@@ -38,7 +38,7 @@ Este projeto contém questões respondidas em python, onde foram abordados os se
 
 ## 📖 MINHAS CONCLUSÔES
 
-   Nas primeiras aulas do projeto (1, 2 e 3), foi abordado o tratamento da planilha Campe Supply. Com a orientação do Ítalo, fui capaz de analisar células vazias, resolver erros de ortografia e tratar dados duplicados. Nessa primeira etapa, os dados foram tratados e refinados, filtrando assim somente o que era ideal para a visualização de resultados.
+   Nas primeiras aulas do projeto (1, 2 e 3), foi abordado o tratamento da planilha Campe Supply. Com a orientação do Ítalo, fui capaz de analisar células vazias, resolver erros de ortografia e tratar dados duplicados. Nessa primeira etapa, os dados foram tratados e refinados, filtrando assim somente o que era ideal para a visualização de resultados, e criando uma nova tabela limpa.
    
    Nas aulas finais (4 e 5), após o tratamento de dados, pudemos trabalhar com eles. Agora, os dados apontam informações que antes não eram enxergadas. Os dados agora contam uma história. Com os gráficos, foi mostrado o que estava ali em linhas e colunas.
    
